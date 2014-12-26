@@ -1,0 +1,157 @@
+A programról általában
+
+A Minerva program számítógépes latin-magyar, magyar-latin szótár és
+latin morfológiai elemzõ. Segítségével könnyen és gyorsan tudjuk latin
+szövegek ismeretlen szavait kiszótárazni, és segít, ha elakadtunk a
+latin ragozás útvesztõiben. A program fõképpen a latin nyelvvel még
+csak ismerkedõknek ajánlott.
+
+A szótár kb. 3500 szócikket tartalmaz. A morfológiai elemzõ a
+következõ nyelvtani jelenségeket ismeri:
+
+o fõnevek és melléknevek I-V. declinatiója;
+o III. declinatiós i-tövû névszók;
+o melléknevek szabályos fokozása, -er végû melléknevek és 
+  hat -ilis végû melléknév rendhagyó fokozása;
+o határozószók (adverbiumok) szabályos képzése;
+o igék I-IV. coniugatiója az igenévképzéssel együtt;
+o a létige és a fero coniugatiója;
+o álszenvedõ (deponens) és félig álszenvedõ (semi deponens) igék.
+
+A morfológiai elemzõ, ha van találat, megadja az elemzett szó szótári
+alakját és alakmeghatározását. A program által közölt szótári alak
+megegyezik a latin szótárakban megtalálható hagyományos jelöléssel.
+
+A keresés nem különbözteti meg a kezdõ kis- és nagybetûket köznevek
+esetén, míg tulajdonnevek és nagybetûvel kezdõdõ melléknevek esetén
+igen.
+
+A menüpontok lépésrõl lépésre
+
+A Fájl menü
+
+A Szöveg megnyitása menüponttal nyithatja meg az elemezni kívánt
+szövegfájlt. A menü kiválasztására egy fájlkiválasztó dialógusablak
+jelenik meg. A fájtt kiválaszthatjuk a listából is, vagy megadhatjuk a
+Fájlnév címkéjû beviteli mezõben. A Könyvtár mezõre klikkelve
+megadhatjuk az alkönyvtár nevét, ahonnan a fájlt be szeretnénk
+tölteni. A Maszkkal a listában megjelenítendõ fájlokat állíthatjuk
+be. A fájlmaszk szintaxisa a Bash-ben megszokott.  A megnyitott fájl
+plain/text formátumú legyen, ellenkezõ esetben a program nem tudja
+feldolgozni. A betöltött szöveg a szövegablakban jelenik meg.
+
+A Szószedet elmentése menüpontba belépve újra egy fájl-dialógusablakot
+kapunk. Ennek segítségével elmenthetjük a szószedetben összegyûjtött
+szavakat. A szószedet egy egyszerû szövegfájlba kerül.
+
+A Szószedet törlésével kiüríthetjük a szószedetet.
+
+A Kilépést választva a Minerva befejezi a mûködését.
+
+A Szótárazás menü
+
+Ebbõl a menübõl hajthatjuk végre a szótárazást. Az elsõ menüpont, a
+Szöveget hatására elindul a szövegablakba töltött fájl elemzése. A
+felpattanó ablakban a vízszintes sáv jelzi, hogy holt tart az
+elemzés. A Stop gombbal bármikor félbeszakíthatjuk a folyamatot.
+
+A Latin szót menüpontot választva jutunk a Latin szó elemzése beviteli
+ablakba. Az Állandó ablak kapcsolót bekapcsolva az ablak nem tûnik el
+az OK lenyomása után, így a bevitel folyamatosan történhet. A bevitel
+után az eredményablak jelenik meg. Itt választhatunk, hogy a kapott
+eredményt hozzáfûzzük-e a szószedethez. Ebben az esetben nyomjuk le a
+Hozzáadás gombot.
+
+A Magyar szót menüpont hasonló az elõzõhöz, azzal a különbséggel, hogy
+a magyar szó keresésére kapott eredményt nem tehetjük be a
+szószedetbe.
+
+Szakkifejezések és rövidítések
+
+o sing. 
+        singularis, egyes szám
+
+o plur. 
+        pluralis, többes szám
+
+o nom. 
+        nominativus, alany eset
+
+o acc. 
+        accusativus, tárgy eset
+
+o gen.
+        genitivus, birtokos eset
+
+o dat. 
+        dativus, részeshatározó eset
+
+o abl. 
+        ablativus, általános határozó eset
+
+o m 
+        masculinum, hímnem
+
+o f 
+        femininum, nõnem
+
+o n 
+        neutrum, semlegesnem
+
+o comparat. 
+        comparativus, középfok
+
+o superlat.
+        superlativus, felsõfok
+
+o act. 
+        activum, cselekvõ igenem
+
+o pass. 
+        passivum, szenvedõ igenem
+
+o ind. 
+        indicativus, kijelentõ mód
+
+o con. 
+        coniunctivus, kötõmód
+
+o imperat1 
+        imperativus I., I. parancsoló mód
+
+o imperat2 
+        imperativus II., II. parancsoló mód
+
+o praes. 
+        praesens, jelen idõ
+
+o praet. 
+        praeteritum, múlt idõ
+
+o fut. 
+        futurum, jövõ idõ
+
+o imp. 
+        imperfecta, folyamatos
+
+o perf. 
+        perfecta, befejezett
+
+o inst. 
+        instans, beálló
+
+o adverbium 
+        határozószó
+
+o part. 
+        participium, melléknévi igenév
+
+o inf. 
+        infinitivus, fõnévi igenév
+
+o gerundium 
+
+o sup. 
+        supinum
+
+

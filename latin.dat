@@ -1,0 +1,760 @@
+v viv vix vict 3	# él
+v val valu valit 2	# erős, egészséges, képes, bír, -hat, -het, tud; érvényben van
+v refug refug refugit 3i	# visszafut, visszariad, elmenekül; vonakodik
+v hab habu habit 2	# bír, birtokol, van neki, tart vminek (acc.); tartalmaz; kijelöl
+v d ded dat 1irr	# ad, nyújt, oszt; okoz
+v accus . . 1	# vádol
+v administr . . 1	# hozzásegít, irányít, kormányoz, ellát
+v adolesc adolev adult 3	# felnő, felserdül; magasra nő, megnő
+v ag eg act 3	# űz, hajt, tesz, cselekszik, csinál, él; kormányoz, tárgyal, foglalkozik vmivel (acc.)
+v agit . . 1	# űz-hajt, hajszol, hajlít, hajlítgat; foglalkozik vmivel (acc.), tárgyal, rebesget
+v am . . 1	# szeret, kedvel; szívesen tesz vmit (inf.)
+v amput . . 1	# lenyes, lemetsz, levág
+v anteced antecess antecess 3	# előtte megy, megelőz
+v applic . . 1	# hozzáilleszt, alkalmaz
+v arm . . 1	# felfegyverez, fegyverbe állít
+v ascend ascend ascens 3	# felszáll, felmegy (acc.)
+v aud audiv audit 4	# hall, hallgat
+v aug aux auct 2	# növel, gyarapít, fokoz
+v caed cecid caes 3	# levág, kivág, leöl, lemészárol, üt, ver; vés
+v can cecin cantat 3	# énekel, megénekel, dalol; zeng
+v can cecin cant 3	# énekel, megénekel, dalol; zeng
+v cant . . 1	# énekel, énekelget, dalol, dalolgat, zeng
+v cap cep capt 3i	# fog, kap, elfoglal, befogad
+v capt . . 1	# fog, fogdos, kapdos; vadászik
+v cav cav caut 2	# óv, óvakodik, vigyáz, gondoskodik; kiköt
+v celebr . . 1	# ünnepel, ünnepet ül; ismeretessé tesz, foglalkozik vmivel (acc.)
+v cern crev cret 3	# elválaszt, megkülönböztet, eldönt; lát
+v cert . . 1	# küzd, harcol, verseng, versenyez, vetekszik, megvív vkivel (dat.)
+v clam . . 1	# kiált, kiabál; hangoztat, hajtogat, hív
+v cogit . . 1	# gondolkodik, elmélkedik, meggondol, szándékozik, törekszik
+v col colu cult 3	# művel, tisztel, ápol
+v cond condid condit 3	# alapít, épít; elrejt, dug, gyűjt, fejt
+v conect connexu connex 3	# összefűz, összekapcsol, összefon, összefog (dat.)
+v consent consens consens 4	# egyetért, megegyezik, összhangban van
+v conserv . . 1	# megőriz, megtart, megment
+v consist constit constat 3	# megáll, beáll, áll vmiből
+v constitu constitu constitut 3	# felállít, alapít, megállapít, szabályoz, elrendel
+v constru construx construct 3	# összerak, megépít, szerkeszt, felhalmoz
+v corrig correx correct 3	# kijavít, helyrehoz; megmásít
+v corrump corrup corrupt 3	# megront, elront
+v cred credid credit 3	# hisz, vél, gondol, rábíz (dat.)
+v cre . . 1	# választ, terem, nemz, szül
+v cresc crev cret 3	# nő, növekszik, gyarapszik
+v cur . . 1	# gondoz, ápol, gondoskodik, törődik; rendel, -tat, -tet
+v curr cucurr curs 3	# fut, szalad, rohan, siet; folyik
+v declin . . 1	# elfordul, elhajlik
+v decor . . 1	# díszít, ékesít
+v deduc dedux deduct 3	# levezet, elvezet, elvon, átültet, alkalmaz, juttat
+v defend defend defens 3	# megvéd, védelmez; mentségül kijelent
+v deform . . 1	# alaktalanná tesz, elcsúfít
+v deliber . . 1	# megfontol, meggondol, elhatároz, dönt, elszán
+v demonstr . . 1	# megmutat, bemutat
+v deriv . . 1	# származtat, eredeztet
+v descend descend descens 3	# leszáll, leereszkedik
+v dic dix dict 3sh	# mond, szól, nevez, elbeszél; (pass.) hírlik, hírneve van
+v dissolv dissolv dissolut 3	# felold, felolvaszt; eloszlat, megbont
+v divid divis divis 3	# szétoszt, kioszt, megószt
+v doc docu doct 2	# tanít, oktat, tudat; kifejt, előad
+v don . . 1	# adományoz, ajándékoz, megajándékoz
+v dorm dormiv dormit 4	# alszik
+v duc dux duct 3sh	# vezet, visz, előhoz, felvon; vél, tart; vonul
+v ed ed es 3	# eszik, emészt, rág
+v educ . . 1	# nevel, felnevel
+v emerg emers emers 3	# kimerít, felmerít, felszínre hoz, előkerít; felmerül, kiemelkedik
+v erig erex erect 3	# felegyenesit, felállít, felemel, épít, emel
+v err . . 1	# téved, tévelyeg, bolyong,. kószál, kóborol; kanyarog
+v expect . . 1	# kivár, bevár, elvár
+v extend extend extent 3	# kinyújt, kifeszít, kiterjeszt; fokoz
+v extrah extrax extract 3	# kihúz, kivon, kivonszol, kiráncigál
+v fac fec fact 3ish	# tesz, csinál, alkot, szül, kelt; intéz
+v fav fav faut 2	# kedvez, elősegít
+v fig fix fix 3	# kifüggeszt, kiszegez, odatűz, beleszúr
+v flamm . . 1	# lángra gyújt, meggyújt; lángol
+v flect flex flex 3	# meghajlít, meggörbít, megváltoztat; elhárít, elfordít; indít, irányít; fordul
+v flu flux flux 3	# folyik, ömlik, árad, omol, mozgásban van
+v form . . 1	# alakít, formál
+v gubern . . 1	# kormányoz, igazgat
+v habit . . 1	# lakik, tartózkodik
+v iac iec iact 3i	# dob, vet
+v iact . . 1	# dobál, rávet, odavet, hány-vet; felhánytorgat, szóba hoz
+v ignor . . 1	# nem tud, nem ismer
+v illustr . . 1	# megvilágít, kiderít, napfényre hoz; megmagyaráz, ábrázol
+v imper . . 1	# parancsol, elrendel; uralkodik
+v incol incolu incult 3	# lakik
+v infl . . 1	# befúj, felfúj
+v inhabit . . 1	# lakik vhol (acc.)
+v interrog . . 1	# megkérdez
+v intr . . 1	# belép, behatol vhová (acc.)
+v invit . . 1	# meghív
+v irrit . . 1	# ingerel, ösztönöz, feléleszt
+v labor . . 1	# dolgozik, fáradozik, iparkodik, igyekszik; küszködik, görnyedezik
+v laud . . 1	# dicsér, magasztal
+v leg leg lect 3	# kiválaszt, kiszemel, szed; olvas
+v lud lus lus 3	# játszik
+v mitt mis miss 3	# küld, bocsát, enged; felhagy, abbahagy
+v mov mov mot 2	# mozgat, indít, hajt
+v narr . . 1	# mesél, elbeszél
+v navig . . 1	# hajózik
+v necessit . . 1	# szükséges, (pass.) kényszerül
+v neg . . 1	# nemet mond, tagad, megtagad
+v nomin . . 1	# nevez, kinevez vminek (acc.)
+v nosc nov not 3	# ismer, megismer, tud
+v occup . . 1	# elfoglal, megszáll, meglep, hatalmába kerít
+v offend offend offens 3	# megtámad, megsért
+v par peper part 3i	# szül, létrehoz, alkot, teremt, előidéz; szerez
+v pell pepul puls 3	# elűz, elkerget
+v penetr . . 1	# behatol, keresztültör (acc.); célba talát
+v perd perdid perdit 3	# elront, megront; tönkretesz; elpusztít
+v pet petiv petit 3	# kér, keres, kíván, követel, törekszik, megtámad
+v plac placu placit 2	# tetszik, jónak látszik; kell
+v pon posu posit 3	# odatesz, lehelyez, elhelyez, tálal; félretesz, lecsillapít
+v port . . 1	# szállít, visz, hord
+v practic . . 1	# gyakorol
+v prem press press 3	# nyom, elnyom, szorít, szorongat, visszatart, közel tart vmihez (acc.); sajtol, terhel
+v prob . . 1	# helyesel, elismer, bizonyít, próbása tesz, megvizsgál
+v prohib prohibu prohibit 2	# távol tart, megakadályoz, megtilt
+v prom promps prompt 3	# elővesz, előhoz, előterjeszt; elővarázsol; nyilatkozik vmiről (acc.)
+v put . . 1	# vél, gondol, hisz
+v quaer qaesiv qaesit 3	# keres, kérdez, kutat
+v rap rapu rapt 3i	# megragad, elragad, elrabol
+v regn . . 1	# uralkodik vki fölött (gen.)
+v reg rex rect 3	# kormányoz, irányít, igazgat, kezel; játszik vmin (acc.)
+v rid ris ris 2	# nevet, mosolyog
+v sacr . . 1	# megszentel, felszentel; esküszik
+v salut . . 1	# üdvözöl, köszönt
+v sc sciv scit 4	# tud, ért, ismer
+v scrib scrips script 3	# ír; kijelöl
+v sent sens sens 4	# érez, érzékel; észrevesz; észlel, gondol
+v separ . . 1	# elválaszt, elkülönít
+v signific . . 1	# jelent, jelez, jelöl, értésére ad
+v simul . . 1	# színlel, tettet
+v solv solv solut 3	# felold, olvaszt, felment; kifizet, megad: (pass.) olvad, fölenged, elernyed
+v son sonu sonit 1irr	# harigzik, zúg
+v spect . . 1	# szemlél, szemlélődik, néz, nézeget; megtekint; tartozik vmihez (ad + acc.)
+v spern sprev spret 3	# megvet, lenéz
+v sper . . 1	# remél
+v st stet stat 1irr	# áll; mered, fennmarad
+v super . . 1	# felülmúl, fölé emelkedik, felhág, átkel; túlél
+v suppl supplev supplet 2	# utána tölt, kipótol
+v suspect . . 1	# gyanakszik, gyanít
+v suspic susspex susspect 3i	# felnéz; gyanús szemmel néz, gyanúsít, gyanít
+v tac tacu tacit 2	# hallgat
+v tang tetig tact 3	# érint, elér, bánt, sújt; meghat, megsért
+v ten tenu tent 2	# tart, fog, elér; lekötelez
+v tract . . 1	# kezel, bánik, foglalkozik, tárgyal; részt vesz
+v trad tradid tradit 3	# átad, hagyományoz; felajánl
+v trah trax tract 3	# húz, von, vonz, vonszol; sző, kap
+v turb . . 1	# megzavar, felkavar; háborgat
+v vid vid vis 2	# lát; ügyel; vigyáz, gondoskodik
+v vigil . . 1	# virraszt, ébren van
+v vinc vinx vinct 4	# megkötöz, bilincsbe ver, fogságba vet; körülvesz, bekerit, övez, koszorúz
+v vinc vic vict 3	# győz, legyőz; megelőz, túltesz vkin (acc.)
+v voc . . 1	# hív, szólít, nevez (aminek: acc.)
+v vol . . 1	# repül, elrepül, száll; száguld
+v gaud . gavis 2sdep	# örül, örvend vminek (abl.)
+v loqu . locut 3dep	# beszél, beszélget; elmond; csacsog
+v nasc . nat 3dep	# születik, származik, ered
+v pat . pass 3idep	# tűr, szenved, elvisel, enged; elél, megér
+v sequ . secut 3dep	# követ, kísér, üldöz; következik
+v disc didic . 3ns	# tanul, megtud, megismer
+v . . . f	# hoz, visz, terem, szül, visel, elvisel: híresztel, vél; (pass.) jár; siet
+n vir 20 masc	# férfi, hős; ember, férj
+n ir 1 fem	# harag
+n soci 2 masc	# társ, szövetséges; cinkos
+n naut 1 masc	# hajós
+n famul 2 masc	# segéd, szolgáló
+n epistol 1 fem	# (költői) levél
+n epistul 1 fem	# (költői) levél
+n vat 3i1 masc vates	# jós, látnok, költő
+n vat 3i1 fem vates	# jós, látnok, költő
+n host 3i1 masc hostis	# ellenség
+n host 3i1 fem hostis	# ellenség
+n fluvi 2 masc	# folyó, folyóvíz
+n di 5 masc	# nap, nappal
+n di 5 fem	# nap, határnap
+n civ 3 masc	# polgár
+n civ 3 fem	# polgár
+n bov 3 masc bos	# marha, ökör
+n bov 3 fem bos	# marha, tehén
+n coniug 3 masc coniunx	# házastárs; feleség, hitves
+n coniug 3 fem coniunx	# házastárs; feleség, hitves
+n action 3 fem actio	# cselekvés, tárgyalás
+n aer 3 neut aes	# érc, ércpénz, pénz, fizetség; érctábla, ércszobor
+n agr 2er masc	# föld, szántóföld, mező, szántó
+n agn 2 masc	# bárány
+n agricol 1 masc	# földműves
+n alt 2 neut	# (mély)tenger; magasság
+n amic 1 fem	# barátnő, kedvese vkinek
+n amic 2 masc	# barát 
+n amor 3 masc amor	# szeretet, szerelem, vágy, vágyakozás, kívánság, kedv
+n anim 1 fem	# lélek, lelkület, szellem; lélegzet, élet
+n animal 3i2 neut animal	# állat, élőlény
+n anim 2 masc	# lélek, lelkület, lelkesedés, lelkierő; szenvédély, indulat; kedv, figyelem
+n ann 2 masc	# év, évszak, esztendő; évjárat
+n aqu 1 fem	# víz, forrásvíz
+n arbor 3 fem arbor	# fa, élőfa
+n arc 4 masc	# ív, íj
+n argument 2 neut	# érv, bizonyíték
+n art 3i1 fem ars	# művészet, mesterség, módszer, mesterkedés, cselfogás; hivatás, tulajdonság
+n art 4 masc	# íz, ízület, tag, végtag; tetem
+n arc 3i1 fem arx	# vár, fellegvár
+n aspect 4 masc	# tekintet, kilátás, látvány
+n auctor 3 masc auctor	# szerző; megbízó, felbujtó, példakép
+n aur 1 fem	# levegő, lég, szellő, fuvallat; napvilág, felvilág
+n aur 2 neut	# arany
+n av 3i1 fem avis	# madár
+n bell 2 neut	# háború, harc, had
+n cael 2 neut	# ég, égboltozat, éghajlat, menny
+n Caesar 3 masc Caesar	# Caius Iulius Caesar, római államférfi, hadvezér, történetíró; a császár (cím)
+n can 3i1 masc canis	# kutya, eb; kopó
+n capit 3 neut caput	# fej, főrész, vezető; fejezet, kútfő
+n carmin 3 neut carmen	# dal, ének, költemény
+n cas 1 fem	# kunyhó, házikó
+n cas 4 masc	# eset, esés, esemény, baleset
+n caus 1 fem	# ok, ügy; vád
+n cell 1 fem	# kamra, fülke; pince
+n cens 4 masc	# vagyon, vagyonbecslés, vagyoni helyzet
+n Ciceron 3 masc Cicero	# Marcus Tullius Cicero, római szónok, író és államférfi
+n circ 2 masc	# cirkusz
+n class 3i1 fem classis	# osztály, csapat; hajóhad
+n coll 3i1 masc collis	# halom, domb
+n colloqui 2 neut	# beszélgetés; megbeszélés
+n coloni 1 fem	# telep, település, gyarmat
+n columb 1 fem	# galamb
+n com 1 fem	# haj, lomb; üstök
+n consul 3 masc consul	# consul
+n cord 3 neut cor	# szív
+n corn 4 neut	# szarv, szaru; kürt
+n coron 1 fem	# (győzelmi) koszorú
+n corpor 3 neut corpus	# test, tetem, holttest; szerv, testület
+n cruc 3 fem crux	# keresztfa, bitófa
+n cur 1 fem	# gond, gondoskodás, aggodalom, felelősség
+n curr 4 masc	# kocsi, diadalkocsi, versenykocsi, szekér, hadi szekér; fogat
+n de 1 fem	# istennő
+n decor 3 neut decus	# dísz, ékesség; kitüntetés, érdem
+n defect 4 masc	# hiány, hiba, silányság
+n delict 2 neut	# hiba, vétek, bűn
+n delphin 2 masc	# delfin
+n dent 3i1 masc dens	# fog, agyar
+n de 2 masc	# isten
+n dialog 2 masc	# beszélgetés, párbeszéd
+n dictator 3 masc dictator	# diktátor
+n dict 2 neut	# mondás, szó
+n digit 2 masc	# ujj
+n diplomat 3 neut diploma	# okirat, oklevél
+n div 1 fem	# istennő
+n div 2 masc	# isten
+n doctor 3 masc doctor	# tanító, tanítómester
+n dolor 3 masc dolor	# fájdalom, szenvedés
+n domin 1 fem	# úrnő
+n domin 2 masc	# úr, gazda; uralkodó
+n dom 4 fem	# ház, lakóhely, otthon, család
+n dubi 2 neut	# kétség, kétely
+n duc 3 masc dux	# vezér, vezető
+n element 2 neut	# elem, elemi ismeret, alap, alapismeret
+n epigrammat 3 neut epigramma	# felirat, epigramma
+n equ 2 masc	# ló
+n error 3 masc error	# tévedés, tévelygés, bolyongás; megtévesztés
+n exempl 2 neut	# példa, példaadás, példakép
+n exercit 4 masc	# hadsereg
+n exili 2 neut	# száműzetés, számkivetés
+n fabul 1 fem	# mese, monda
+n fact 2 neut	# tett, cselekedet
+n fam 1 fem	# hír, hírnév, szóbeszéd, mendemonda; közvélemény
+n famili 1 fem	# család, háznép
+n fat 2 neut	# végzet, sors, balsors
+n fer 1 fem	# vad, vadállat
+n ferr 2 neut	# vas, fegyver
+n fer 2 masc	# vad, vadállat, szörny
+n fid 4 fem	# hűség, hit, hitel, megbízhatóság, becsület, becsületesség, adott szó, szavahihetőség; teljesedés
+n figur 1 fem	# alak, alakzat, képzés
+n fili 1 fem	# leánya vkinek
+n fin 3i1 masc finis	# vég, cél, határ; terület, ország
+n flamm 1 fem	# láng, tűz, tűzcsóva, fénysugár
+n flor 3 masc flos	# virág
+n fluct 4 masc	# hullám, hullámzás
+n foc 2 masc	# (házi v. áldozati) tűzhely
+n foli 2 neut	# levél
+n font 3i1 masc fons	# forrás
+n form 1 fem	# alak; szépség
+n formidin 3 fem formido	# félelem, rettegés
+n fort 3i1 fem fors	# sors, véletlen
+n fortun 1 fem	# szerencse, sors, véletlen, végzet; plur. vagyon
+n for 2 neut	# fórum, tér, piactér
+n fruct 4 masc	# gyümölcs, termés; haszon
+n furor 3 masc furor	# düh, tombotás, őrület, őrültség; vihar
+n gall 2 masc	# kakas
+n genitor 3 masc genitor	# apa, nemzőapa
+n gent 3i1 fem gens	# nemzetség, nép
+n gener 3 neut genus	# nem, nemzetség, faj, fajta, származás, írmag, sarj; alkat
+n glob 2 masc	# gömb, golyó
+n glori 1 fem	# dicsőség, dicsőségvágy
+n grad 4 masc	# lépés, lépcső, fok, menet, járás, jövetel
+n grammatic 1 fem	# nyelvtudomány, irodalomtudomány
+n habit 4 masc	# magatartás, alkat, helyzet, viselet, öltözék
+n Hannibal 3 masc Hannibal	# Hannibal, karthágói hadvezér
+n Hercul 3i1 masc Hercules	# Hercules, görög hős
+n histori 1 fem	# történet, történelem
+n Homer 2 masc	# Homérosz
+n homin 3 masc homo	# ember
+n honor 3 masc honor	# tisztelet, tisztség, megtiszteltetés, megbecsülés, kitüntetés
+n honor 3 masc honos	# tisztelet, tisztség, megtiszteltetés, megbecsülés, kitüntetés
+n hor 1 fem	# óra
+n horror 3 masc horror	# borzalom
+n hospit 3 masc hospes	# vendég, vendégbarát; idegen
+n humor 3 masc humor	# nedv, nedvesség
+n ign 3i1 masc ignis	# tűz, tűzcsóva, fáklya; villám, csillagfény
+n ilic 3 fem ilex	# tölgy, tölgyfa
+n Ili 2 neut	# Trója
+n imagin 3 fem imago	# kép, hasonmás, példakép; visszhang
+n imperator 3 masc imperator	# fővezér; császár
+n imperi 2 neut	# hatalom, főhatalom, uralom, birodalom; császárság
+n incol 1 masc	# lakos, lakó
+n industri 1 fem	# ipar, iparkodás, szorgalom
+n insani 1 fem	# őrültség; féktelenség
+n insect 2 neut	# féreg, bogár
+n inventor 3 masc inventor	# feltaláló, felfedező
+n Itali 1 fem	# Itália
+n itiner 3 neut iter	# út
+n Iunon 3 fem Iuno	# Junó (főistennő)
+n Iov 3 masc Iuppiter	# Jupiter (főisten)
+n iur 3 neut ius	# jog, jogszabály, törvény
+n iustiti 1 fem	# igazság, igazságosság
+n iuven 3i1 masc iuvenis	# ifjú, fiatalember
+n labor 3 masc labor	# munka, fáradság; feladat
+n lact 3 neut lac	# tej
+n lap 3i1 masc lapis	# kő
+n Lati 2 neut	# Latium, közép-itáliai tartomány
+n lector 3 neut lector	# olvasó
+n legion 3 fem legio	# légió, hadosztály
+n leon 3 masc leo	# oroszlán
+n leg 3 fem lex	# törvény; szerződés, feltétel
+n libr 2er masc	# könyv
+n libertat 3 fem libertas	# szabadság, mentesség
+n limit 3 masc limes	# határjelző, határvonal, határmezsgye
+n lingu 1 fem	# nyelv
+n liquor 3 masc liquor	# folyadék, nedv
+n litter 1 fem	# betű; plur. irodalom, levél, hadparancs
+n loc 2 masc	# hely, tér, vidék
+n lud 2 masc	# játék, iskola; tréfa
+n lumin 3 neut lumen	# fény, ragyogás, világlítás, lámpa; szem
+n lun 1 fem	# hold, holdváltozás; hónap
+n lup 2 masc	# farkas
+n luc 3 fem lux	# fény, világosság, hajnal; nap, nappal
+n lyr 1 fem	# lant
+n machin 1 fem	# gép, hadigép, gépezet
+n magistr 2er masc	# mester, tanítómester; kapitány
+n magistrat 4 masc	# hivatal, hivatalnok, tisztviselő, hatóság
+n magnitudin 3 fem magnitudo	# nagyság
+n mal 2 neut	# baj, kár
+n mal 2 fem	# almafa
+n man 4 fem	# kéz (munkája), tett; csapat
+n mar 3i2 neut mare	# tenger
+n Mart 3i1 masc Mars	# Mars, a háború (istene)
+n matr 3 fem mater	# anya
+n materi 1 fem	# anyag
+n matron 1 fem	# (tisztes korú) asszony, nő
+n medic 2 masc	# orvos
+n medi 2 neut	# közép, derék
+n membran 1 fem	# bőr, pergamen
+n memori 1 fem	# emlékezet; emlékirat
+n ment 3i1 fem mens	# ész, elme, lélek, lelkület; meggondolás, gondolat; indulat, szenvedély
+n mens 1 fem	# asztal
+n mens 3i1 masc mensis	# hónap
+n mercator 3 masc mercator	# kereskedő, nagykereskedő
+n meridi 4 masc	# dél
+n metr 2 neut	# versmérték, versforma
+n milit 3 masc miles	# katona, katonaság
+n Minerv 1 fem  # Minerva
+n ministr 2er masc	# szolga
+n miracul 2 neut	# csoda, csodás jelenség
+n mod 2 masc	# mód, mérték; versmérték
+n moment 2 neut	# mozzanat, tényező, jelentőség; tartam
+n mont 3i1 masc mons	# hegy, hegység
+n monstr 2 neut	# ijesztő jelenség, szörny, szörnyeteg
+n momument 2 neut	# emlék, emlékjel, emlékmű, síremlék; életmű
+n mor 1 fem	# késedelem, haladék; időegység
+n morb 2 masc	# betegség, nyavalya
+n mort 3i1 fem mors	# halál
+n mor 3 masc mos	# szokás, erkölcs, jellem; szeszély
+n mulier 3 fem mulier	# asszony, nő
+n mund 2 masc	# világ
+n murmur 3 neut murmur	# morgás, mormogás, moraj, zümmögés
+n mur 2 masc	# fal, városfal
+n mus 1 fem	# múzsa; dal, költemény
+n nation 3 fem natio	# nemzet, nép
+n natur 1 fem	# természet
+n nat 2 masc	# fiú, fiúszülött, fiúgyermek; fióka, poronty
+n nat 4 masc	# születés, származás
+n nomin 3 neut nomen	# név, szó; cím
+n not 1 fem	# jegy, ismertetőjegy, jel, jelzet, írásjel, címke; szégyenfolt, bélyeg
+n noct 3 fem nox	# éjszaka
+n numer 2 masc	# szám, létszám, ütem, dallam; számítás, számrendszer
+n nymph 1 fem	# nimfa 
+n oppid 2 neut	# város
+n oper 3 neut opus	# mű, munka
+n orb 3i1 masc orbis	# kerekség, földkerekség, kör, forgás; gömb, földgömb, bolygó
+n ordin 3 masc ordo	# rend, sor; rendtartás, szerkezet
+n origin 3 fem origo	# eredet, származás
+n or 3 neut os	# száj, arc; tekintet; koponya
+n ov 2 neut	# tojás 
+n pan 3i1 masc panis	# kenyér
+n part 3i1 fem pars	# rész; párt, szerep
+n patr 3 masc pater	# atya, apa; szenátor
+n patri 1 fem	# a haza
+n pac 3 fem pax	# béke
+n ped 3 masc pes	# láb; versláb
+n philosophi 1 fem	# bölcselet, filozófia
+n philosoph 2 masc	# bölcselő, filozófus
+n pin 4 fem	# fenyő, fenyőfa
+n pleb 3 fem plebs	# nép, köznép
+n poet 1 masc	# költő
+n pol 2 masc	# sark, sarkpont, ég, égboltozat
+n pont 3i1 masc pons	# híd
+n pont 2 masc	# (nyílt) tenger
+n popul 2 masc	# nép
+n port 1 fem	# kapu
+n port 4 masc	# kikötő
+n potenti 1 fem	# hatalom, képesség
+n praed 1 fem	# zsákmány, zsákmányszerzés
+n provinci 1 fem	# tartomány
+n proverbi 2 neut	# szállóige, közmondás
+n puell 1 fem	# leány, leányka; a kedves
+n puer 20 masc	# fiú; szolga
+n ration 3 fem ratio	# ész, értelem, tudat, számítás, számbavétel, gondolkodás; tanítás, elv, életelv, elmélet, mód
+n regin 1 fem	# királynő
+n region 3 fem regio	# vidék, táj
+n regn 2 neut	# királyság, ország, uralom
+n religion 3 fem religio	# vallás, vallásos érzés, babonaság, szertartás; lelkiismeretesség, döntés
+n repetition 3 fem repetitio	# ismétlés
+n r 4 fem	# dolog, ügy, per, lényeg; vagyon, vagyontárgy, helyzet, körülmény; állam
+n r 4 fem	# közügy, köztársaság; állam
+n respons 2 neut	# felelet, válasz; döntés
+n reg 3 masc rex	# király
+n rit 4 masc	# szokás, vallási szokás, szertartás
+n Rom 1 fem	# Róma
+n Romul 2 masc	# Romulus, Róma alapítója
+n sanguin 3 masc sanguis	# vér
+n sapienti 1 fem	# bölcsesség, okosság
+n schol 1 fem	# iskola
+n scienti 1 fem	# tudás, tudomány, tudomás
+n script 2 neut	# írás, irat
+n senat 4 masc	# szenátus, államtanács, tanácsülés; kihallgatás (a szenátus előtt)
+n sens 4 masc	# érzés, érzelem, ösztön; gondolat, fogalmazás
+n sententi 1 fem	# gondolat, vélemény; ítélet, döntés; mondat, közmondás
+n seri 4 fem	# sor, sorozat
+n serv 2 masc	# rabszolga
+n sign 2 neut	# jel, jelvény, jelszó; műtárgy, műkincs, szobor; csillagkép
+n silv 1 fem	# erdő
+n sol 3 masc sol	# nap (égitest)
+n sort 3i1 fem sors	# sors, sorsvetés
+n spirit 4 masc	# lélegzet, lehelet, légzés, széláramlat; ihlet, lelkület, bátorság
+n stell 1 fem	# csillag, csillagzat
+n tabul 1 fem	# tábla, kép, festmény, asztal; írás, irat, jegyzőkönyv
+n templ 2 neut	# templom; bekerített terület; szentély
+n tempor 3 neut tempus	# 1. idő, időszak, kor, alkalom; 2. halánték
+n terr 1 fem	# föld, szárazföld
+n theatr 2 neut	# színház
+n Tiber 3i1 masc Tiberis	# Tiberis, folyó (istene)
+n tog 1 fem	# tóga
+n Troi 1 fem	# Trója
+n triumph 2 masc	# diadal, diadalmenet
+n universitat 3 fem universitas	# egyetem
+n urb 3i1 fem urbs	# város, főváros (Róma)
+n urn 1 fem	# (sorsvető) edény, szavazóurna; hamvveder
+n us 4 masc	# használat, fogyasztás, gyakorlat, szükséglet, szolgálat; haszon
+n uv 1 fem	# szőlő, szőlőfürt
+n Vener 3 fem Venus	# szépség, szerelem (istennője)
+n verb 2 neut	# ige, szó, név; beszéd
+n veritat 3 fem veritas	# igazság, valóság
+n vers 4 masc	# vers, költemény
+n vi 1 fem	# út
+n victori 1 fem	# győzelem
+n victor 3 masc victor	# győző, győztes
+n vill 1 fem	# (nyári v. mezei) lak, villa, major; falu
+n vin 2 neut	# bor; plur. borozgatás
+n virgin 3 fem virgo	# szűz, leány, hajadon; menyasszony
+n virtut 3 fem virtus	# erény, érdem, férfiasság, vitézség, erő
+n vit 1 fem	# élet; lélek
+n voc 3 fem vox	# hang, szó
+a Troian 3	# trójai
+a liber 30	# szabad
+a miser 30	# szerencsétlen, nyomorult
+a iunior 1 iunior	# fiatalabb, ifjabb
+a feroc 1 ferox	# vad, vakmerő
+a dexter 30	# jobb, jobb oldali
+a dextr 3er	# jobb, jobb oldali
+a alter 30	# másik, második
+a annual 2	# évi
+a alb 3	# fehér
+a alt 3	# magas, mély
+a August 3	# augustusi, fenséges
+a barbar 3	# külföldi, idegen, műveletlen, barbár
+a beat 3	# boldog; virágzó, termékeny
+a bell 3	# csinos, szép, kedves
+a benign 3	# jóságos, jószívű, jótékony; kegyes
+a bon 3aici	# jó, jótékony, derék, kedvező; jókora
+a brev 2	# rövid; rövid életű
+a caelest 2	# égi, mennyei
+a car 3	# drága, kedves, szeretett
+a cert 3	# biztos, bizonyos, határozott
+a ceter 3	# a többi, egyéb
+a civil 2	# polgár, polgári
+a clar 3	# ragyogó, világos, tiszta; híres, kiváló
+a commun 2	# közös, általános, közönséges
+a constant 1 constans	#  állandó, állhatátos
+a continu 3cisi	# összefüggő, szakadatlan, folytonos, állandó
+a decim 3	# tizedik
+a di 3	# isteni, égi
+a divin 3	# isteni
+a div 3	# isteni
+a familiar 2	# családi, családias
+a fatal 2	# végzetes, végzetszerű, vészthozó
+a fer 3	# vad, szilaj, kegyetlen, vérengző
+a fidel 2	# hű, hűséges, megbízható, biztos
+a fort 2	# bátor, vitéz
+a frequent 1 frequens	#  nagyszámú, gyakori, sűrű, látogatott; ünnepelt
+a futur 3	# leendő, jövő, jövendő 
+a Graec 3	# görög
+a grand 2	# nagy, nagyszerű, nagyszabású; súlyos
+a grav 2	# nehéz, súlyos, elnehezült, fáradt, fárasztó, beteg; tekintélyes, fajsúlyos
+a habil 2ns	# alkalmas, rátermett, képes
+a human 3	# emberi, emberies
+a immortal 2	# halhatatlan
+a infinit 3	# határtalan, végtelen, korlátlan
+a intim 3	# legbelső, meghitt
+a Latin 3	# latin
+a legitim 3	# törvényes
+a len 2	# enyhe, szelíd, lágy, halk
+a long 3	# hosszú, hosszan tartó
+a magn 3cisi	# nagy
+a malign 3	# rosszindulatú, fukar, gyér
+a mal 3cisi	# rossz, gonosz, kedvezőtlen
+a matur 3	# érett
+a maxim 3ncns	# legnagyobb, igen nagy
+a mediocr 2	# középszerű, közepes
+a me 3ncns	# enyém, az én -m
+a minim 3ncns	# legkisebb, igen kicsi
+a mobil 2ns	# mozgékony, nyüzsgő; ingatag
+a mortal 2	# halandó
+a nigr 3er	# fekete, sötét
+a nimi 3cisi	# igen nagy, túlságos
+a nobil 2ns	# ismert, híres, hírnevet adó, nemes, előkelő
+a non 3	# kilencedik
+a nostr 3erncns	# mienk, a mi -nk
+a nov 3nc	# új, újszerű
+a null 3	# semmi, semmiféle, egy sem; senki
+a omn 2	# összes, minden, egész
+a optim 3ncns	# legjobb, igen jó
+a parv 3cisi	# kis, kicsiny
+a pessim 3ncns	# legrosszabb, igen rossz, igen gonosz
+a pi 3cisi	# kegyes, tisztelettudó, kötelességtudó
+a plurim 3ncns	# igen sok, legtöbb
+a popular 2	# népi, népszerű; honfi
+a poster 3si	# következő, utó-, utód
+a potent 1 potens	#  hatalmas, erős, tehetős, tehetséges
+a praesent 1 praesens	#  jelen, jelenlevő, rögtöni; segítőkész
+a prim 3ciai	# első
+a princip 1ni princeps	#  első, vezető, fő-
+a privat 3	# magán-
+a prompt 3	# készséges, tettre kész, hajlandó vmire (dat.)
+a proxim 3	# legközelebbi, legutóbbi
+a public 3	# közös, nyilvános, hivatalos, állami
+a pur 3	# tiszta; mentes
+a qual 2	# amilyen; milyen?
+a quant 3aincns	# ahány, amennyi; hány? mennyi?
+a quart 3	# negyedik
+a quot 3	# hányad?, hányadik?
+a rapid 3	# magával ragadó, rohanó; perzselő
+a rect 3	# egyenes, helyes, igazságos, biztos
+a Roman 3	# római
+a rustic 3	# mezei, falusi, paraszti
+a sanct 3	# szent, szentelt
+a sapient 1 sapiens	#  bölcs
+a san 3	# ép, egészséges
+a senil 2	# öreges, öregkori
+a simil 2	# hasonló (amihez: dat. v. gen.)
+a sext 3	# hatodik
+a simplic 1 simplex	#  egyszerű; nyílt, beesületes
+a singular 2	# egyes, egyedülátló
+a solid 3	# szilárd, tömör, egész, teljes
+a sol 3	# egyedüli, magányos
+a superb 3	# gőgös, büszke, dölyfös; zsarnoki
+a super 3si	# felső; égi
+a su 3ncns	# övé, övék; sajátja, sajátjuk
+a tacit 3	# hallgatag, néma, csendes, nesztelen, halk; titkos
+a tal 2	# ilyen, olyan
+a timid 3	# félénk, gyáva
+a tot 3	# egész, teljes
+a tu 3ncns	# tiéd, a te -d
+a ultim 3	# utolsó, legutolsó, legszélső, végső
+a un 3	# egy; egységes
+a vacu 3cisi	# üres, légüres, kietlen; mentes, szabad vmitől (abl.)
+a valid 3	# erős, egészséges, hatalmas
+a ver 3	# igaz, igazi, való, valódi
+a veter 1nicisi vetus	#  régi, öreg, ó, ősi, hajdani; klasszikus, elavult
+a vicin 3	# szomszéd, szomszédos, közeli
+a violent 1 violens	#  heves, erőszakos; rohanó
+a viv 3	# élő, eleven, életteli
+a vulgar 2	# közönséges, mindennapi
+adv nunquam	# sohasem
+adv numquam	# sohasem
+cet nihil	# semmi
+cet nil	# semmi
+i a	# ah! ó!
+praep a	# (+abl.) -tól, -től; -ból, -ből; felől
+praep ab	# (+abl.) -tól, -től; -ból, -ből; felől
+c ac	# és; mint, mintha
+praep ad 	# (+acc.) -hoz, -hez, -höz; -ra, -re; -nál, -nél; -ig, felé
+praep adversum	# (+acc.) szemben, ellen(ében), felé;
+adv adversum	# szemben
+praep adversus	# (+acc.) szemben, ellen(ében), felé;
+cet ait	# mond, igent mond, (így) szól
+adv alibi	# máshol, másutt
+pron alius alia aliud	# más
+c an	# vajon, vagy
+praep ante	# (+acc.) előtt; adv. azelőtt, előbb, elöl
+praep apud	# (+acc.) -nál, -nél; közelében, mellett
+c at	# de, ámde, ellenben, pedig
+c atque	# és
+c aut	# vagy, akár
+c autem	# pedig
+i ave	# légy üdvöz!
+adv bene	# jól, kedvezően; jócskán
+num bis	# kétszer
+adv causa	# (előtte: gen.) okából, miatt, érdekében, kedvéért, végett
+num centum	# száz
+adv ceterum	# egyébként, különben
+praep circa	# (+acc.) körül
+adv circa	# körös-körül
+praep circum	# (+acc.) körül
+adv cito	# gyorsan, sebesen
+praep contra 	# (+acc.) ellen, szemben; adv. szemközt, ellenben, viszont, ezzel szemben
+c cum	# mikor, amikor, midőn, amidőn; miután, minthogy; bár, ámbár
+praep cum	# (+abl.) -val, -vel; -stul; -stül
+adv cur	# miért
+praep de	# (+abl.) -ról, -ről; -ból, -ből
+num decem	# tíz
+adv domum	# haza, hazafelé
+adv donec	# míg, mígnem
+adv dum	# míg, miközben, mialatt; csakhogy
+num duo duae duo	# kettő, két
+praep e	# (+abl.) -ból, -ből; -tól, -től; közül; elől; alapján, szerint
+i ecce	# íme, lám
+pron ego	# én
+c enim	# ugyanis, mert, mindenesetre
+c et	# és, is; vagyis, tudniillik, hiszen
+c etiam	# is, még is, ugyancsak; úgyszintén
+praep ex	# (+abl.) -ból, -ből; -tól, -től; közül, elől; alapján, szerint
+praep extra	# (+acc.) vmin kívül;
+adv extra	# kinn, kívül
+pron hic haec hoc	# ez
+adv hic	# itt
+adv hinc	# innen, ettől, ezután; ezért
+adv hodie	# ma
+adv huc	# ide
+adv iam	# már, máris, immár, csakhamar
+adv ibi	# ott, akkor
+pron idem eadem idem	# ugyanaz, ugyanő
+c igitur	# tehát
+pron ille illa illud	# ő, az
+adv immo	# sőt; illetve, helyesebben
+praep in	# (+ abl.) -ban, -ben; -on, -en, -ön
+praep in 	# (+ acc.) -ba, -be; -ra, -re; -ig, felé, ellen
+adv inde	# innen, ettől, ezután, ezentúl, ennélfogva
+praep infra	# (+acc.) alatt; adv. odalent
+cet inquam	# mondom, úgymond
+cet inquit	# mondom, úgymond
+praep inter	# (+ acc.) között, közé
+praep intra	# (+acc.) vmin belül, közé
+pron ipse ipsa ipsum	# (ő) maga; úr, úrnő
+pron is ea id	# ő, az
+pron iste ista istud	# az, az ott
+adv ita	# úgy, így
+adv magis	# inkább, mindinkább, jobban
+num mille	# (plur. milia) ezer
+adv minus	# kevésbé
+adv modo	# imént, csak; majd
+adv mox	# majd
+c nam	# mert, ugyanis
+i ne	# ne, nehogy, hogy ne
+i nec	# sem, és nem, nem is
+c nisi	# hanem, hacsaknem, csak, csakis
+adv non	# nem
+pron nos	# mi, minket
+num novem	# kilenc
+i num	# vajon, csaknem
+adv nunc	# most, jóelőre
+i o	# ó!
+praep ob	# (+acc.) -ért, miatt
+adv olim	# egykor; régen, majdan, majd egyszer
+praep per	# (+acc.) át, által, keresztül; útján, -nként, szerte
+adv plus	# inkább, jobban
+praep post	# (+acc.) után, mögött
+adv post	# azután, utána, később
+adv postea	# azután, később
+praep praeter	# (+acc.) mellett, előtt, vmin kívül, kivételével
+adv primo	# először, eleinte
+praep pro	# (+abl.) -ért, érdekében, helyett; képest, mérten, gyanánt
+praep propter	# (+acc.) -ért, miatt
+adv qua	# amerre; merre?
+cet quaeso	# kérlek
+adv quam	# mint, mennyire, mily..., a lehető...
+adv quando	# amikor, valamikor, mivel; mikor?
+adv quantum	# amekkora, amennyire
+c quasi	# mintegy, szinte, mintha
+num quattuor	# négy
+pron qui quae quod	# aki, ami, amely; melyik? miféle?
+c quia	# mivel, minthogy, mert
+pron quid	# mi?, mit? miért?
+pron quidam quaedam quoddam	# egy valaki, egy bizonyos
+adv quidem	# bizony, bizonyára, ugyan, ugyanis; legalább, éppen
+pron quis quid	# ki? mi?
+adv quo	# ahová; hová? mire jó? miért?
+c quod	# hogy, mivel; amennyiben
+adv saepe	# gyakran
+cet salve	# légy üdvöz
+i satis	# elég, eléggé
+i sat	# elég, eléggé
+pron se	# magát, magukat
+c sed	# de, hanem
+adv semper	# mindig
+num septem	# hét
+num sex	# hat
+c si	# ha
+adv sic	# így
+praep sine	# (+abl.) nélkül
+c sive	# akár, akár ha, vagy, vagy ha
+i solum	# csak, csupán
+praep sub	# (+abl.) alatt; tövében
+praep sub	# (+acc.) alá, felé; küszöbén
+adv subito	# hirtelen, váratlanul
+praep super	# (+abl.) fölött, -ra, -re; miatt
+adv super	# felülről
+praep super	# (+acc.) fölé, fölött, -nál, -nél
+adv super	# azonfelül, ráadásul, tetejébe
+praep supra	# (+acc.) fölött, fölé
+pron tam	# olyan, annyira
+c tamen	# mégis
+num ter	# háromszor
+pron tot	# annyi, oly sok
+praep trans	# (+acc.) át, keresztül, túl
+num tres tria	# három
+pron tu	# te
+pron tum	# akkor, azután
+pron tunc	# akkor, azután
+pron ubi	# ahol, mihelyt; hol?
+pron ubique	# bárhol, mindenütt
+praep ultra	# (+acc.) fölött, túl
+adv ultra	# azonfelül, azontúl, többé
+adv ultro	# azonfelül, ráadásul, még; önként, magától
+pron unde	# ahonnan, amitől; honnan? mitől?
+c ut	# hogy, amint, miként, mihelyt; mennyire, mióta; minthogy; bár
+pron uter utra utrum	# (a)melyik a kettő közül
+cet vale	# élj boldogul! isten veled!
+c vel	# vagy, akár; például
+c velut	# mint (például), mintegy, miként
+i vero	# valóban, pedig
+adv vix	# alig; nagyrehezen, bajosan
+pron vos	# ti, titeket
