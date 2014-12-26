@@ -54,7 +54,7 @@ v deriv . . 1	# származtat, eredeztet
 v descend descend descens 3	# leszáll, leereszkedik
 v dic dix dict 3sh	# mond, szól, nevez, elbeszél; (pass.) hírlik, hírneve van
 v dissolv dissolv dissolut 3	# felold, felolvaszt; eloszlat, megbont
-v divid divis divis 3	# szétoszt, kioszt, megószt
+v divid divis divis 3	# szétoszt, kioszt, megoszt
 v doc docu doct 2	# tanít, oktat, tudat; kifejt, előad
 v don . . 1	# adományoz, ajándékoz, megajándékoz
 v dorm dormiv dormit 4	# alszik
@@ -62,7 +62,7 @@ v duc dux duct 3sh	# vezet, visz, előhoz, felvon; vél, tart; vonul
 v ed ed es 3	# eszik, emészt, rág
 v educ . . 1	# nevel, felnevel
 v emerg emers emers 3	# kimerít, felmerít, felszínre hoz, előkerít; felmerül, kiemelkedik
-v erig erex erect 3	# felegyenesit, felállít, felemel, épít, emel
+v erig erex erect 3	# felegyenesít, felállít, felemel, épít, emel
 v err . . 1	# téved, tévelyeg, bolyong,. kószál, kóborol; kanyarog
 v expect . . 1	# kivár, bevár, elvár
 v extend extend extent 3	# kinyújt, kifeszít, kiterjeszt; fokoz
@@ -104,7 +104,7 @@ v occup . . 1	# elfoglal, megszáll, meglep, hatalmába kerít
 v offend offend offens 3	# megtámad, megsért
 v par peper part 3i	# szül, létrehoz, alkot, teremt, előidéz; szerez
 v pell pepul puls 3	# elűz, elkerget
-v penetr . . 1	# behatol, keresztültör (acc.); célba talát
+v penetr . . 1	# behatol, keresztültör (acc.); célba talál
 v perd perdid perdit 3	# elront, megront; tönkretesz; elpusztít
 v pet petiv petit 3	# kér, keres, kíván, követel, törekszik, megtámad
 v plac placu placit 2	# tetszik, jónak látszik; kell
@@ -112,7 +112,7 @@ v pon posu posit 3	# odatesz, lehelyez, elhelyez, tálal; félretesz, lecsillap�
 v port . . 1	# szállít, visz, hord
 v practic . . 1	# gyakorol
 v prem press press 3	# nyom, elnyom, szorít, szorongat, visszatart, közel tart vmihez (acc.); sajtol, terhel
-v prob . . 1	# helyesel, elismer, bizonyít, próbása tesz, megvizsgál
+v prob . . 1	# helyesel, elismer, bizonyít, próbára tesz, megvizsgál
 v prohib prohibu prohibit 2	# távol tart, megakadályoz, megtilt
 v prom promps prompt 3	# elővesz, előhoz, előterjeszt; elővarázsol; nyilatkozik vmiről (acc.)
 v put . . 1	# vél, gondol, hisz
@@ -130,7 +130,7 @@ v separ . . 1	# elválaszt, elkülönít
 v signific . . 1	# jelent, jelez, jelöl, értésére ad
 v simul . . 1	# színlel, tettet
 v solv solv solut 3	# felold, olvaszt, felment; kifizet, megad: (pass.) olvad, fölenged, elernyed
-v son sonu sonit 1irr	# harigzik, zúg
+v son sonu sonit 1irr	# hangzik, zúg
 v spect . . 1	# szemlél, szemlélődik, néz, nézeget; megtekint; tartozik vmihez (ad + acc.)
 v spern sprev spret 3	# megvet, lenéz
 v sper . . 1	# remél
@@ -148,7 +148,7 @@ v trah trax tract 3	# húz, von, vonz, vonszol; sző, kap
 v turb . . 1	# megzavar, felkavar; háborgat
 v vid vid vis 2	# lát; ügyel; vigyáz, gondoskodik
 v vigil . . 1	# virraszt, ébren van
-v vinc vinx vinct 4	# megkötöz, bilincsbe ver, fogságba vet; körülvesz, bekerit, övez, koszorúz
+v vinc vinx vinct 4	# megkötöz, bilincsbe ver, fogságba vet; körülvesz, bekerít, övez, koszorúz
 v vinc vic vict 3	# győz, legyőz; megelőz, túltesz vkin (acc.)
 v voc . . 1	# hív, szólít, nevez (aminek: acc.)
 v vol . . 1	# repül, elrepül, száll; száguld
@@ -190,7 +190,7 @@ n amic 2 masc	# barát
 n amor 3 masc amor	# szeretet, szerelem, vágy, vágyakozás, kívánság, kedv
 n anim 1 fem	# lélek, lelkület, szellem; lélegzet, élet
 n animal 3i2 neut animal	# állat, élőlény
-n anim 2 masc	# lélek, lelkület, lelkesedés, lelkierő; szenvédély, indulat; kedv, figyelem
+n anim 2 masc	# lélek, lelkület, lelkesedés, lelkierő; szenvedély, indulat; kedv, figyelem
 n ann 2 masc	# év, évszak, esztendő; évjárat
 n aqu 1 fem	# víz, forrásvíz
 n arbor 3 fem arbor	# fa, élőfa
@@ -283,7 +283,7 @@ n fort 3i1 fem fors	# sors, véletlen
 n fortun 1 fem	# szerencse, sors, véletlen, végzet; plur. vagyon
 n for 2 neut	# fórum, tér, piactér
 n fruct 4 masc	# gyümölcs, termés; haszon
-n furor 3 masc furor	# düh, tombotás, őrület, őrültség; vihar
+n furor 3 masc furor	# düh, tombolás, őrület, őrültség; vihar
 n gall 2 masc	# kakas
 n genitor 3 masc genitor	# apa, nemzőapa
 n gent 3i1 fem gens	# nemzetség, nép
@@ -338,7 +338,7 @@ n liquor 3 masc liquor	# folyadék, nedv
 n litter 1 fem	# betű; plur. irodalom, levél, hadparancs
 n loc 2 masc	# hely, tér, vidék
 n lud 2 masc	# játék, iskola; tréfa
-n lumin 3 neut lumen	# fény, ragyogás, világlítás, lámpa; szem
+n lumin 3 neut lumen	# fény, ragyogás, világítás, lámpa; szem
 n lun 1 fem	# hold, holdváltozás; hónap
 n lup 2 masc	# farkas
 n luc 3 fem lux	# fény, világosság, hajnal; nap, nappal
@@ -503,7 +503,7 @@ a ceter 3	# a többi, egyéb
 a civil 2	# polgár, polgári
 a clar 3	# ragyogó, világos, tiszta; híres, kiváló
 a commun 2	# közös, általános, közönséges
-a constant 1 constans	#  állandó, állhatátos
+a constant 1 constans	#  állandó, állhatatos
 a continu 3cisi	# összefüggő, szakadatlan, folytonos, állandó
 a decim 3	# tizedik
 a di 3	# isteni, égi
@@ -576,8 +576,8 @@ a san 3	# ép, egészséges
 a senil 2	# öreges, öregkori
 a simil 2	# hasonló (amihez: dat. v. gen.)
 a sext 3	# hatodik
-a simplic 1 simplex	#  egyszerű; nyílt, beesületes
-a singular 2	# egyes, egyedülátló
+a simplic 1 simplex	#  egyszerű; nyílt, becsületes
+a singular 2	# egyes, egyedülálló
 a solid 3	# szilárd, tömör, egész, teljes
 a sol 3	# egyedüli, magányos
 a superb 3	# gőgös, büszke, dölyfös; zsarnoki
@@ -756,5 +756,5 @@ cet vale	# élj boldogul! isten veled!
 c vel	# vagy, akár; például
 c velut	# mint (például), mintegy, miként
 i vero	# valóban, pedig
-adv vix	# alig; nagyrehezen, bajosan
+adv vix	# alig; nagynehezen, bajosan
 pron vos	# ti, titeket
