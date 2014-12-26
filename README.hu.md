@@ -47,85 +47,90 @@ $
 
 ## Szakkifejezések és rövidítések
 
- * sing.
-        singularis, egyes szám
+<dl>
+  <dt>sing.</dt>
+  <dd>singularis, egyes szám</dd>
 
- * plur.
-        pluralis, többes szám
+  <dt>plur.</dt>
+  <dd>pluralis, többes szám</dd>
 
- * nom.
-        nominativus, alany eset
+  <dt>nom.</dt>
+  <dd>nominativus, alany eset</dd>
 
- * acc.
-        accusativus, tárgy eset
+  <dt>acc.</dt>
+  <dd>accusativus, tárgy eset</dd>
 
- * gen.
-        genitivus, birtokos eset
+  <dt>gen.</dt>
+  <dd>genitivus, birtokos eset</dd>
 
- * dat.
-        dativus, részeshatározó eset
+  <dt>dat.</dt>
+  <dd>dativus, részeshatározó eset</dd>
 
- * abl.
-        ablativus, általános határozó eset
+  <dt>abl.</dt>
+  <dd>ablativus, általános határozó eset</dd>
 
- * m        masculinum, hímnem
+  <dt>m</dt>
+  <dd>masculinum, hímnem</dd>
 
- * f
-        femininum, nőnem
+  <dt>f</dt>
+  <dd>femininum, nőnem</dd>
 
- * n
-        neutrum, semlegesnem
+  <dt>n</dt>
+  <dd>neutrum, semlegesnem</dd>
 
- * comparat.
-        comparativus, középfok
+  <dt>comparat.</dt>
+  <dd>comparativus, középfok</dd>
 
- * superlat.
-        superlativus, felsőfok
+  <dt>superlat.</dt>
+  <dd>superlativus, felsőfok</dd>
 
- * act.
-        activum, cselekvő igenem
+  <dt>act.</dt>
+  <dd>activum, cselekvő igenem</dd>
 
- * pass.
-        passivum, szenvedő igenem
+  <dt>pass.</dt>
+  <dd>passivum, szenvedő igenem</dd>
 
- * ind.
-        indicativus, kijelentő mód
+  <dt>ind.</dt>
+  <dd>indicativus, kijelentő mód</dd>
 
- * con.        coniunctivus, kötőmód
+  <dt>con.</dt>
+  <dd>coniunctivus, kötőmód</dd>
 
- * imperat1
-        imperativus I., I. parancsoló mód
+  <dt>imperat1</dt>
+  <dd>imperativus I., I. parancsoló mód</dd>
 
- * imperat2
-        imperativus II., II. parancsoló mód
+  <dt>imperat2</dt>
+  <dd>imperativus II., II. parancsoló mód</dd>
 
- * praes.
-        praesens, jelen idő
+  <dt>praes.</dt>
+  <dd>praesens, jelen idő</dd>
 
- * praet.
-        praeteritum, múlt idő
+  <dt>praet.</dt>
+  <dd>praeteritum, múlt idő</dd>
 
- * fut.
-        futurum, jövő idő
+  <dt>fut.</dt>
+  <dd>futurum, jövő idő</dd>
 
- * imp.
-        imperfecta, folyamatos
+  <dt>imp.</dt>
+  <dd>imperfecta, folyamatos</dd>
 
- * perf.
-        perfecta, befejezett
+  <dt>perf.</dt>
+  <dd>perfecta, befejezett</dd>
 
- * inst.        instans, beálló
+  <dt>inst.</dt>
+  <dd>instans, beálló</dd>
 
- * adverbium
-        határozószó
+  <dt>adverbium</dt>
+  <dd>határozószó</dd>
 
- * part.
-        participium, melléknévi igenév
+  <dt>part.</dt>
+  <dd>participium, melléknévi igenév</dd>
 
- * inf.
-        infinitivus, főnévi igenév
+  <dt>inf.</dt>
+  <dd>infinitivus, főnévi igenév</dd>
 
- * gerundium
+  <dt>gerundium</dt>
 
- * sup.
-        supinum
+  <dt>sup.</dt>
+  <dd>supinum</dd>
+</dl>

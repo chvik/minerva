@@ -49,92 +49,94 @@ $
 
 ## Terms and abbreviations
 
- * sing.
-        singularis, singular
+<dl>
+  <dt>sing.</dt>
+  <dd>singularis, singular</dd>
 
- * plur.
-        pluralis, plural
+  <dt>plur.</dt>
+  <dd>pluralis, plural</dd>
 
- * nom.
-        nominativus, nominative
+  <dt>nom.</dt>
+  <dd>nominativus, nominative</dd>
 
- * acc.
-        accusativus, accusative
+  <dt>acc.</dt>
+  <dd>accusativus, accusative</dd>
 
- * gen.
-        genitivus, genitive
+  <dt>gen.</dt>
+  <dd>genitivus, genitive</dd>
 
- * dat.
-        dativus, dative
+  <dt>dat.</dt>
+  <dd>dativus, dative</dd>
 
- * abl.
-        ablativus, ablative
+  <dt>abl.</dt>
+  <dd>ablativus, ablative</dd>
 
- * m
-        masculinum, masculine
+  <dt>m</dt>
+  <dd>masculinum, masculine</dd>
 
- * f
-        femininum, feminine
+  <dt>f</dt>
+  <dd>femininum, feminine</dd>
 
- * n
-        neutrum, neuter
+  <dt>n</dt>
+  <dd>neutrum, neuter</dd>
 
- * comparat.
-        comparativus, comparative
+  <dt>comparat.</dt>
+  <dd>comparativus, comparative</dd>
 
- * superlat.
-        superlativus, superlative
+  <dt>superlat.</dt>
+  <dd>superlativus, superlative</dd>
 
- * act.
-        activum, active
+  <dt>act.</dt>
+  <dd>activum, active</dd>
 
- * pass.
-        passivum, passive
+  <dt>pass.</dt>
+  <dd>passivum, passive</dd>
 
- * ind.
-        indicativus, indicative
+  <dt>ind.</dt>
+  <dd>indicativus, indicative</dd>
 
- * con.
-        coniunctivus, conjunctive mode
+  <dt>con.</dt>
+  <dd>coniunctivus, conjunctive mode</dd>
 
- * imperat1
-        imperativus I., the first imperative
+  <dt>imperat1</dt>
+  <dd>imperativus I., the first imperative</dd>
 
- * imperat2
-        imperativus II., the second imperative
+  <dt>imperat2</dt>
+  <dd>imperativus II., the second imperative</dd>
 
- * praes.
-        praesens, present
+  <dt>praes.</dt>
+  <dd>praesens, present</dd>
 
- * praet.
-        praeteritum, past
+  <dt>praet.</dt>
+  <dd>praeteritum, past</dd>
 
- * fut.
-        futurum, future
+  <dt>fut.</dt>
+  <dd>futurum, future</dd>
 
- * imp.
-        imperfecta, imperfect
+  <dt>imp.</dt>
+  <dd>imperfecta, imperfect</dd>
 
- * perf.
-        perfecta, perfect
+  <dt>perf.</dt>
+  <dd>perfecta, perfect</dd>
 
- * inst.
-        instans, instant (future)
+  <dt>inst.</dt>
+  <dd>instans, instant (future)</dd>
 
- * adverbium
-        adverb
+  <dt>adverbium</dt>
+  <dd>adverb</dd>
 
- * part.
-        participium, participle
+  <dt>part.</dt>
+  <dd>participium, participle</dd>
 
- * inf.
-        infinitivus, infinitive
+  <dt>inf.</dt>
+  <dd>infinitivus, infinitive</dd>
 
- * gerundium
-        gerund
+  <dt>gerundium</dt>
+  <dd>gerund</dd>
 
- * sup.
-        supinum, supine
+  <dt>sup.</dt>
+  <dd>supinum, supine</dd>
+</dl>
         
 
 ## License
