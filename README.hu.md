@@ -14,17 +14,21 @@ következő nyelvtani jelenségeket ismeri:
 
 ## Telepítés
 
-```make install
+```
+make install
 ```
 
 It will install minerva into /usr/local/minerva and a symlink to the executable into
 /usr/local/bin.  If you want to install it elsewhere, run
 
-```make install MINERVA_ROOT=```_directory_ ```BINDIR=```_directory_
+```
+make install MINERVA_ROOT=directory BINDIR=directory
+```
 
 ## Használat
 
-```$ minerva
+```
+$ minerva
 ? Minervae
 Minerva, -ae f : Minerva
   sing. gen.
@@ -37,8 +41,9 @@ narro 1, narravi, narratum : mesél, elbeszél
 ? ember
 vir, -i m férfi, hõs; ember, férj
 homo, hominis m ember
-? ```_<ENTER>_
-```$ ```
+? <ENTER>
+$ 
+```
 
 ## Szakkifejezések és rövidítések
 
